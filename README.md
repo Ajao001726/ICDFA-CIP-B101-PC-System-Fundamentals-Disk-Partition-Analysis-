@@ -8,7 +8,7 @@
 | Registration Number | C11/26/FCDF/17166 |
 | Course Code | CIP-B101 |
 | Lab Title | PC System Fundamentals, Disk Sectors and Partition Analysis |
-| Date | 6 November 2026 |
+| Date | 7 November 2026 |
 
 ---
 
